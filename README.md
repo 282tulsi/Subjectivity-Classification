@@ -1,6 +1,3 @@
-Subjectivity detection with Bi-RNNs
-===================================
-
 Installation
 ------------
 
